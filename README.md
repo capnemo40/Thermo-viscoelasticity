@@ -24,3 +24,8 @@ Further details on the model and discretisation can be found in the [arXiv prepr
       url={https://arxiv.org/abs/2504.19250}, 
 }
 ```
+<p align="center">
+    <img src="https://github.com/capnemo40/Thermo-viscoelasticity/blob/main/0VE02.png" width="30%">
+    <img src="https://github.com/capnemo40/Thermo-viscoelasticity/blob/main/0VE04.png" width="30%">
+    <img src="https://github.com/capnemo40/Thermo-viscoelasticity/blob/main/0VE06.png" width="30%">
+</p>
